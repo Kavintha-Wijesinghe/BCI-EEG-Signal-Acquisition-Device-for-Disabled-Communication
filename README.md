@@ -1,10 +1,5 @@
 # BCI-EEG-Signal-Acquisition-Device-for-Disabled-Communication
 
-**Technologies**: Python, YOLOv9, EasyOCR, OpenCV, PyTorch
-
-## **Here is a demo containing the project output:**
-![Smart Surveillance System](https://github.com/Kavintha-Wijesinghe/End-to-End-License-Plate-Detection-Recognition-YOLO-EasyOCR-/blob/main/output_.gif?raw=true)
-
 ## Overview
 
 This project focuses on the design and development of an EEG-based Brain-Computer Interface (BCI) system aimed at providing a low-cost solution for individuals with disabilities to communicate and control devices. The system uses Steady-State Visual Evoked Potentials (SSVEP) detected from EEG signals to interact with external devices.
